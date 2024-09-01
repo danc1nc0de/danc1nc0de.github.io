@@ -17,7 +17,7 @@ timezone: Asia/Shanghai
 
 title: Yinghao Sun # the main title
 
-tagline: Yinghao's personal website. # it will display as the sub-title
+tagline: Why so serious? # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
