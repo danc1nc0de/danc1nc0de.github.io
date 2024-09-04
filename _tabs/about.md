@@ -5,7 +5,7 @@ order: 4
 title: 关于博主
 ---
 
-![挚爱](../assets/img/with-yanyan.jpg)
+![挚爱](assets/img/with-yanyan.jpg)
 
 <br>
 <br>
@@ -16,28 +16,28 @@ title: 关于博主
     <h1>孙颖豪&nbsp;&nbsp;&nbsp;&nbsp;Yinghao Sun</h1>
     <div>
         <span>
-            <img alt="phone" src="../assets/icon/phone-solid.svg" width="18px">
+            <img alt="phone" src="assets/icon/phone-solid.svg" width="18px">
             一山一柳腰凌玲无酒凄凌
         </span>
         &nbsp;&nbsp;&nbsp;&nbsp;
         <span>
-            <img alt="e-mail" src="../assets/icon/envelope-solid.svg" width="18px">
+            <img alt="e-mail" src="assets/icon/envelope-solid.svg" width="18px">
             bit_syh@163.com
         </span>
         &nbsp;&nbsp;&nbsp;&nbsp;
         <span>
-            <img alt="github" src="../assets/icon/github-brands.svg" width="18px">
+            <img alt="github" src="assets/icon/github-brands.svg" width="18px">
             <a href="https://github.com/danc1nc0de">Github</a>
         </span>
         &nbsp;&nbsp;&nbsp;&nbsp;
         <span>
-            <img alt="blog" src="../assets/icon/rss-solid.svg" width="18px">
+            <img alt="blog" src="assets/icon/rss-solid.svg" width="18px">
             <a href="https://yinghao.info">Blog</a>
         </span>
     </div>
 </center>
 
-## <img alt="info" src="../assets/icon/info-circle-solid.svg" width="30px"> 个人信息 
+## <img alt="info" src="assets/icon/info-circle-solid.svg" width="30px"> 个人信息 
 
 - 出生年月：1993年10月
 - 籍&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;贯：河北保定
@@ -45,12 +45,12 @@ title: 关于博主
 - 研究方向：感知算法、多传感器融合、多目标跟踪、信号处理
 - 爱&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;好：游泳、端游、Coding
 
-## <img alt="graduation" src="../assets/icon/graduation-cap-solid.svg" width="30px"> 教育经历
+## <img alt="graduation" src="assets/icon/graduation-cap-solid.svg" width="30px"> 教育经历
 
 - 博士学位，北京理工大学，信息与通信工程专业，2016年9月～2022年7月
 - 学士学位，北京理工大学，电子科学与技术专业，2012年9月～2016年7月
 
-## <img alt="work" src="../assets/icon/briefcase-solid.svg" width="30px"> 工作经历
+## <img alt="work" src="assets/icon/briefcase-solid.svg" width="30px"> 工作经历
 
 - **2022年7月～至今，深圳大疆创新科技有限公司，车载动态感知部门，高级计算机视觉算法工程师**
 
@@ -61,7 +61,7 @@ title: 关于博主
 
     从**0**开始，**独立完成算法预研、架构设计、算法开发、代码移植、部署上线、算法迭代**等，完成大疆车载**多传感器融合&多目标跟踪&场景融合**整体算法的**更新换代**，并在多家OEM发布车型中**量产**，融合跟踪效果相比上一代算法在目标车**大幅转向/掉头、倒车、缓慢加塞、遮挡**等多种场景有**显著提升**。
 
-## <img alt="research" src="../assets/icon/project-diagram-solid.svg" width="30px"> 科研经历
+## <img alt="research" src="assets/icon/project-diagram-solid.svg" width="30px"> 科研经历
 
 - **面向强杂波环境的机载雷达捷变波形设计与信号处理技术研究**
 
@@ -74,7 +74,7 @@ title: 关于博主
 
   综上，本项目针对强杂波环境下机载雷达中的捷变波形设计和信号处理技术展开研究，充分利用雷达发射端和接收端自由度实现对不同距离段杂波回波的重构反演，有效分离并抑制折叠杂波，改善机载雷达中的距离模糊和杂波折叠问题，提高机载雷达在强杂波环境中的目标探测性能。
 
-## <img alt="skill" src="../assets/icon/tools-solid.svg" width="30px"> 技能清单
+## <img alt="skill" src="assets/icon/tools-solid.svg" width="30px"> 技能清单
 
 - ★★★★☆ 熟悉C++ & Python
 - ★★★★☆ 熟悉贝叶斯理论、概率论、凸优化、非线性优化等基础理论
@@ -83,11 +83,11 @@ title: 关于博主
 - ★★★☆☆ 了解辅助驾驶中动态感知相关算法原理与实现
   - 包括但不限于 Stereo, 2D Detection, Mono 3D Detection, SceneFlow, Bev 3D Detection, Occupancy, Radar Detection, Optical Flow, Time to Collosion Estimation, Trajectory Prediction
 
-## <img alt="demo" src="../assets/icon/github-brands.svg" width="30px"> Some Demos
+## <img alt="demo" src="assets/icon/github-brands.svg" width="30px"> Some Demos
 
 TODO
 
-## <img alt="publication" src="../assets/icon/graduation-cap-solid.svg" width="30px"> 已发表的论文和专利
+## <img alt="publication" src="assets/icon/graduation-cap-solid.svg" width="30px"> 已发表的论文和专利
 
 1. **Y. Sun**, H. Fan, L. Ren, E. Mao and T. Long, “Folded Clutter Suppression for Pulse-Doppler Radar Based on Pulse-Agile Waveforms,” in IEEE Transactions on Signal Processing (SCI 一区顶刊，IF:5.4), vol. 70, pp。 3774-3788, 2022.
 2. **Y. Sun**, H. Fan, J. Wang, L. Ren, E. Mao and T. Long, “Optimization of Diverse PCFM Waveforms and Joint Mismatched Filters,” in IEEE Transactions on Aerospace and Electronic Systems (SCI 二区顶刊，IF:4.4), vol. 57, no. 3, pp. 1840-1854, 2021.
@@ -112,7 +112,7 @@ TODO
 21. 任丽香, 龙腾, 刘子豪, **孙颖豪**, 毛二可, 范花玉: 一种基于脉间相位频谱双捷变的波形设计方法, 发明专利, 已授权 CN202110793850.1
 22. 范花玉, 刘子豪, 沙明辉, 毛二可, 任丽香, **孙颖豪**: 一种基于脉宽捷变的 LFM 脉冲串信号波形设计方法, 发明专利, 已授权 CN202110800109.3
 
-## <img alt="honor" src="../assets/icon/info-circle-solid.svg" width="30px"> 部分代表性荣誉
+## <img alt="honor" src="assets/icon/info-circle-solid.svg" width="30px"> 部分代表性荣誉
 
 - 2023年11月，中国卫星导航定位协会优秀博士学位论文
 - 2022年07月，北京市优秀毕业生
