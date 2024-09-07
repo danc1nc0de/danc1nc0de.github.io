@@ -39,16 +39,22 @@ title: 关于博主
 
 ## <img alt="info" src="assets/icon/info-circle-solid.svg" width="30px"> 个人信息 
 
+- 性&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;别：男
 - 出生年月：1993年10月
 - 籍&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;贯：河北保定
 - 学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;历：博士
-- 研究方向：感知算法、多传感器融合、多目标跟踪、信号处理
+- 研究方向：机器人感知算法、多传感器融合、多目标跟踪、信号处理相关
 - 爱&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;好：游泳、端游、Coding
 
 ## <img alt="graduation" src="assets/icon/graduation-cap-solid.svg" width="30px"> 教育经历
 
 - 博士学位，北京理工大学，信息与通信工程专业，2016年9月～2022年7月
+  - 雷达技术研究所，导师毛二可院士
+  - 以第 1 作者已发表 SCI 论文 5 篇（含顶刊 4 篇），EI 论文 3 篇，中文核心 2 篇；已授权发明专利 6 项
 - 学士学位，北京理工大学，电子科学与技术专业，2012年9月～2016年7月
+  - 本科期间专业排名 2 / 60+，保送研究生
+- 高中，河北保定第一中学，理科，2009年9月～2012年7月
+  - 高考成绩 659 分，全校排名 8 / 900+，河北省排名 748 / 22w+，考取北京理工大学
 
 ## <img alt="work" src="assets/icon/briefcase-solid.svg" width="30px"> 工作经历
 
@@ -60,6 +66,8 @@ title: 关于博主
     工作期间主要负责辅助驾驶系统中的**多传感器后融合**、**多目标跟踪**、**场景融合（智能大灯相关）**相关算法的开发迭代及部署落地。
 
     从**0**开始，**独立完成算法预研、架构设计、算法开发、代码移植、部署上线、算法迭代**等，完成大疆车载**多传感器融合&多目标跟踪&场景融合**整体算法的**更新换代**，并在多家OEM发布车型中**量产**，融合跟踪效果相比上一代算法在目标车**大幅转向/掉头、倒车、缓慢加塞、遮挡**等多种场景有**显著提升**。
+
+    工作期间了解熟悉机器人领域智能感知相关算法，包括但不限于 Stereo, 2D Detection, Mono 3D Detection, Scene Flow, Bev 3D Detection, Occupancy, Radar Detection, Optical Flow, Time to Collosion Estimation, Trajectory Prediction 等。
 
 ## <img alt="research" src="assets/icon/project-diagram-solid.svg" width="30px"> 科研经历
 
@@ -74,14 +82,28 @@ title: 关于博主
 
   综上，本项目针对强杂波环境下机载雷达中的捷变波形设计和信号处理技术展开研究，充分利用雷达发射端和接收端自由度实现对不同距离段杂波回波的重构反演，有效分离并抑制折叠杂波，改善机载雷达中的距离模糊和杂波折叠问题，提高机载雷达在强杂波环境中的目标探测性能。
 
+<div style="display: flex; justify-content: center; align-items: center;">
+
+<div style="text-align: center; margin: 0 20px;">
+  <img src="assets/img/folded-clutter-before.jpg" alt="Image 1" style="width: auto; height: auto; display: block; margin: 0 auto;">
+  <p style="margin: 10px 0 0;">折叠杂波（重构前）</p>
+</div>
+
+<div style="text-align: center; margin: 0 20px;">
+  <img src="assets/img/folded-clutter-after.jpg" alt="Image 2" style="width: auto; height: auto; display: block; margin: 0 auto;">
+  <p style="margin: 10px 0 0;">折叠杂波（重构后）</p>
+</div>
+
+</div>
+
 ## <img alt="skill" src="assets/icon/tools-solid.svg" width="30px"> 技能清单
 
 - ★★★★☆ 熟悉C++ & Python
+- ★★★★☆ 熟悉信号处理领域相关理论与算法
 - ★★★★☆ 熟悉贝叶斯理论、概率论、凸优化、非线性优化等基础理论
 - ★★★★☆ 熟悉卡尔曼滤波KF、扩展卡尔曼滤波EKF、无迹卡尔曼滤波UKF、粒子滤波PF等基础理论与算法
 - ★★★★☆ 熟悉单/多目标跟踪中常用的 NN、PDA、GSF、GNN、JPDA、MHT 等算法框架
-- ★★★☆☆ 了解辅助驾驶中动态感知相关算法原理与实现
-  - 包括但不限于 Stereo, 2D Detection, Mono 3D Detection, SceneFlow, Bev 3D Detection, Occupancy, Radar Detection, Optical Flow, Time to Collosion Estimation, Trajectory Prediction
+- ★★★☆☆ 了解机器人领域智能感知相关算法
 
 ## <img alt="demo" src="assets/icon/github-brands.svg" width="30px"> Some Demos
 
