@@ -1,8 +1,8 @@
 ---
-title: 每天学网络：Point Pillars
+title: 快速了解一个网络：Point Pillars
 date: 2024-12-18 09:00:00 +0800
 categories: [Computer Vision, 3D Detection]
-tags: [每天学网络, computer vision, 3d detection, lidar, point pillars]
+tags: [快速了解一个网络, computer vision, 3d detection, lidar, point pillars]
 ---
 
 > 以下内容偏向于记录个人学习过程及思考，非常规教学内容

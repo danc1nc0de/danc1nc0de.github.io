@@ -1,8 +1,8 @@
 ---
-title: 每天学网络：Faster RCNN
+title: 快速了解一个网络：Faster RCNN
 date: 2024-09-07 15:30:00 +0800
 categories: [Computer Vision, 2D Detection]
-tags: [每天学网络, computer vision, 2d detection, faster rcnn]
+tags: [快速了解一个网络, computer vision, 2d detection, faster rcnn]
 ---
 
 > 以下内容偏向于记录个人学习过程及思考，非常规教学内容
