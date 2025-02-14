@@ -5,7 +5,7 @@ order: 4
 title: 关于博主
 ---
 
-![挚爱](assets/img/with-yanyan.jpg)
+![挚爱](assets/img/family.jpg)
 
 <br>
 <br>
@@ -111,10 +111,10 @@ TODO
 
 ## <img alt="publication" src="assets/icon/graduation-cap-solid.svg" width="30px"> 已发表的论文和专利
 
-1. **Y. Sun**, H. Fan, L. Ren, E. Mao and T. Long, “Folded Clutter Suppression for Pulse-Doppler Radar Based on Pulse-Agile Waveforms,” in IEEE Transactions on Signal Processing (SCI 一区顶刊，IF:5.4), vol. 70, pp。 3774-3788, 2022.
+1. **Y. Sun**, H. Fan, L. Ren, E. Mao and T. Long, “Folded Clutter Suppression for Pulse-Doppler Radar Based on Pulse-Agile Waveforms,” in IEEE Transactions on Signal Processing (SCI 一区顶刊，IF:5.4), vol. 70, pp. 3774-3788, 2022.
 2. **Y. Sun**, H. Fan, J. Wang, L. Ren, E. Mao and T. Long, “Optimization of Diverse PCFM Waveforms and Joint Mismatched Filters,” in IEEE Transactions on Aerospace and Electronic Systems (SCI 二区顶刊，IF:4.4), vol. 57, no. 3, pp. 1840-1854, 2021.
 3. **Y. Sun**, H. Fan, E. Mao, Q. Liu and T. Long, “Range-Doppler Sidelobe Suppression for Pulse-Diverse Waveforms,” in IEEE Transactions on Aerospace and Electronic Systems (SCI 二区顶刊，IF:4.4), vol. 56, no. 4, pp. 2835-2849, 2020.
-4. **Y. Sun**, Q. Liu, J. Cai and T. Long, “A Novel Weighted Mismatched Filter for Reducing Range Sidelobes,” in IEEE Transactions on Aerospace and Electronic Systems (SCI 二区顶刊，IF:4.4), vol. 55, no. 3, pp. 1450-
+4. **Y. Sun**, Q. Liu, J. Cai and T. Long, “A Novel Weighted Mismatched Filter for Reducing Range Sidelobes,” in IEEE Transactions on Aerospace and Electronic Systems (SCI 二区顶刊，IF:4.4), vol. 55, no. 3, pp. 1450-1460, 2018.
 5. **Y. Sun**, Q. Liu, J. Cai and T. Long, “A Novel Method for Designing General Window Functions with Flexible Spectral Characteristics,” in Sensors, vol. 18, no. 9, pp. 3081, 2018.
 6. **Y. Sun**, L. Ren, H. Fan and X. Yang, “Frequency Hopped Synthetic Bandwidth Waveform Design and Processing Algorithm for Self-Speed Measurement,” in Journal of Signal Processing, vol. 35, no. 6, pp. 1034-1040, 2019.
 7. **Y. Sun**, H. Fan, L. Ren and E. Mao, “Fast Algorithm for Mismatched Filter Design based on Dynamic Alternating Projection,” in Journal of Signal Processing, Accepted, 2021.
