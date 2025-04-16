@@ -2,7 +2,7 @@
 title: 快速了解一个网络：Seeing Through Fog Without Seeing Fog, Deep Multimodal Sensor Fusion in Unseen Adverse Weather
 date: 2025-01-27 18:30:00 +0800
 categories: [Computer Vision]
-tags: [快速了解一个网络, computer vision, 2d detection, radar-camera fusion, adaptive deep fusion]
+tags: [快速了解一个网络, computer vision, 2d detection, radar-camera fusion]
 ---
 
 > 以下内容偏向于记录个人学习过程及思考，请审慎阅读。

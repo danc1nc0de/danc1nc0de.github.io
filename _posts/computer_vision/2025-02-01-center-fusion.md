@@ -2,7 +2,7 @@
 title: 快速了解一个网络：CenterFusion, Center-based Radar and Camera Fusion for 3D Object Detection
 date: 2025-02-01 11:00:00 +0800
 categories: [Computer Vision]
-tags: [快速了解一个网络, computer vision, 3d detection, radar-camera fusion, center fusion]
+tags: [快速了解一个网络, computer vision, 3d detection, radar-camera fusion]
 math: true
 ---
 

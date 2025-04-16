@@ -2,7 +2,7 @@
 title: 快速了解一个网络：Efficient Net
 date: 2025-01-18 17:30:00 +0800
 categories: [Computer Vision]
-tags: [快速了解一个网络, computer vision, backbone, efficient net]
+tags: [快速了解一个网络, computer vision, backbone]
 math: true
 ---
 

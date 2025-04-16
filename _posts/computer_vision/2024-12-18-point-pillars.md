@@ -2,7 +2,7 @@
 title: 快速了解一个网络：Point Pillars
 date: 2024-12-18 09:00:00 +0800
 categories: [Computer Vision]
-tags: [快速了解一个网络, computer vision, 3d detection, lidar 3d, point pillars]
+tags: [快速了解一个网络, computer vision, 3d detection, lidar]
 ---
 
 > 以下内容偏向于记录个人学习过程及思考，请审慎阅读。
