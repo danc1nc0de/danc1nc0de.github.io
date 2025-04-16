@@ -1,11 +1,11 @@
 ---
 title: 快速了解一个网络：Radar-Camera Sensor Fusion for Joint Object Detection and Distance Estimation in Autonomous Vehicles
 date: 2025-01-28 22:00:00 +0800
-categories: [Computer Vision, Radar-Camera Fusion]
-tags: [快速了解一个网络, computer vision, 2d detection, radar-camera fusion]
+categories: [Computer Vision]
+tags: [快速了解一个网络, computer vision, 2d detection]
 ---
 
-> 以下内容偏向于记录个人学习过程及思考，非常规教学内容
+> 以下内容偏向于记录个人学习过程及思考，请审慎阅读。
 {: .prompt-info }
 
 ## 背景

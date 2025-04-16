@@ -1,12 +1,12 @@
 ---
 title: 快速了解一个网络：Low-level Sensor Fusion for 3D Vehicle Detection using Radar Range-Azimuth Heatmap and Monocular Image
 date: 2025-02-17 22:00:00 +0800
-categories: [Computer Vision, Radar-Camera Fusion]
-tags: [快速了解一个网络, computer vision, 3d detection, radar-camera fusion]
+categories: [Computer Vision]
+tags: [快速了解一个网络, computer vision, 3d detection]
 math: true
 ---
 
-> 以下内容偏向于记录个人学习过程及思考，非常规教学内容
+> 以下内容偏向于记录个人学习过程及思考，请审慎阅读。
 {: .prompt-info }
 
 ## 背景

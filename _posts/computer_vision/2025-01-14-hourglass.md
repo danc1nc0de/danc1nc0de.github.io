@@ -1,11 +1,11 @@
 ---
 title: 快速了解一个网络：Hourglass Network
 date: 2025-01-14 15:45:00 +0800
-categories: [Computer Vision, Backbone]
+categories: [Computer Vision]
 tags: [快速了解一个网络, computer vision, backbone, hourglass]
 ---
 
-> 以下内容偏向于记录个人学习过程及思考，非常规教学内容
+> 以下内容偏向于记录个人学习过程及思考，请审慎阅读。
 {: .prompt-info }
 
 ## 背景

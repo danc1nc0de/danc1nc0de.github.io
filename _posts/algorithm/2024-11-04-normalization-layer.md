@@ -5,7 +5,7 @@ categories: [Algorithms]
 tags: [algorithm, normalization layer]
 ---
 
-> 以下内容偏向于记录个人学习过程及思考，非常规教学内容
+> 以下内容偏向于记录个人学习过程及思考，请审慎阅读。
 {: .prompt-info }
 
 ## Batch Normalization (BN) Layer
