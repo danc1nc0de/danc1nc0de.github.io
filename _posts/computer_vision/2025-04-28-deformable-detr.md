@@ -38,7 +38,7 @@ tags: [快速了解一个网络, computer vision, 2d detection]
 ## 进一步了解
 
 - [DETR](https://yinghao.info/posts/detr/)
-- [deformable convolution](https://arxiv.org/abs/1703.06211)
+- [deformable convolution](https://yinghao.info/posts/deformable-conv/)
 
 ## 原文和代码
 
