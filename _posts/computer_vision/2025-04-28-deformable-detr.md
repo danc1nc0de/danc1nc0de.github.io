@@ -2,7 +2,7 @@
 title: 快速了解一个网络：Deformable DETR, Deformable Transformers for End-to-End Object Detection
 date: 2025-04-28 15:00:00 +0800
 categories: [Computer Vision]
-tags: [快速了解一个网络, computer vision, 2d detection]
+tags: [快速了解一个网络, computer vision, transformer, 2d detection]
 ---
 
 > 以下内容偏向于记录个人学习过程及思考，请审慎阅读。
