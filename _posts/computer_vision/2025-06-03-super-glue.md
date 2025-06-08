@@ -59,7 +59,7 @@ Super Glue 从特征点匹配角度（而非特征点提取角度）出发，通
 
 ## 原文和代码
 
-<http://arxiv.org/abs/1911.11763>
+<https://arxiv.org/abs/1911.11763>
 
 ## 参考资料
 
